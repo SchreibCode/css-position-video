@@ -1,0 +1,46 @@
+/*
+    Basic Styles
+*/
+
+.container{
+    min-height: 2000px;
+    width: 80%;
+    margin: 0 auto;
+    border: 0.5rem dashed var(--color-secondary-light-800);
+    position: relative;
+}
+
+.item{
+    width:120px;
+    color: var(--color-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+
+
+
+/*
+    Position Styles
+*/
+
+
+.eins{
+
+}
+
+.zwei{
+
+}
+
+.drei{
+
+}
+
+.vier{
+
+}
