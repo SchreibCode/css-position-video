@@ -1,7 +1,7 @@
 # CSS Position
 
 #### Hey und welcome bei SchreibCode<br>
-- In diesem repository findest du den Code zum Video:<br> **CSS Position erklärt | Mit Beispielen**.
+- In diesem repository findest du den Code zum Video: **CSS Position erklärt | Mit Beispielen**.
 - Falls du das Video noch nicht gesehen hast kannst du es hier:
   [Link zum Video](https://www.youtube.com) anschauen.
 
