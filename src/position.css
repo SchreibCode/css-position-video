@@ -2,15 +2,15 @@
     Basic Styles
 */
 
-.container{
+.container {
     min-height: 2000px;
     width: 80%;
     margin: 0 auto;
     border: 0.5rem dashed var(--color-secondary-light-800);
 }
 
-.item{
-    width:120px;
+.item {
+    width: 120px;
     color: var(--color-secondary);
     display: flex;
     align-items: center;
@@ -20,33 +20,34 @@
     font-size: 2rem;
 }
 
-
-
-
 /*
     Position Styles
 */
 
-.container{
-
+.container {
+    position: relative;
 }
 
-
-.eins{
-
+.eins {
+    /* standart */
+    position: static;
+    top: 100px;
 }
 
-.zwei{
-
+.zwei {
+    position: relative;
+    left: 300px;
 }
 
-.drei{
-
+.drei {
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
 
-.vier{
-
+.vier {
+    position: sticky;
 }
 
-
-
+.fünf {
+}

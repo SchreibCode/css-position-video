@@ -36,16 +36,31 @@ main h2{
     Neuer Code
 */
 
+/*header{*/
+/*    position: fixed;*/
+/*    top:0;*/
+/*    width:100%;*/
+/*    background-color: var(--color-secondary);*/
+/*}*/
+
+/*main{*/
+/*    margin-top: 100px;*/
+/*}*/
+
+
 header{
+    width: 100%;
     position: fixed;
-    top:0;
-    width:100%;
+    top: 0px;
     background-color: var(--color-secondary);
 }
 
 main{
-    margin-top: 100px;
+    margin-top: 81px;
+    padding-top: 0.25rem;
 }
+
+
 
 
 

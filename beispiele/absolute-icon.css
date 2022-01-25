@@ -41,32 +41,61 @@ main h2{
     Neuer Code
 */
 
+/*.card{*/
+/*    width:80%;*/
+/*    margin: 0 auto;*/
+/*    position: relative;*/
+/*}*/
+
+/*.card img{*/
+/*    width:100%;*/
+/*}*/
+
+/*.card button{*/
+/*    position: absolute;*/
+/*    bottom:1rem;*/
+/*    right: 1rem;*/
+/*    display: none;*/
+/*    padding: 0.25rem 1rem;*/
+/*    font-size: 1.5rem;*/
+/*    color: grey;*/
+/*}*/
+
+/*.card:hover button{*/
+/*    display: unset;*/
+/*}*/
+
+/*.card button:hover{*/
+/*    color: black;*/
+/*    cursor: pointer;*/
+/*}*/
+
+
 .card{
-    width:80%;
-    margin: 0 auto;
+    width: 80%;
     position: relative;
+    margin: 0 auto;
 }
 
 .card img{
-    width:100%;
+    width: 100%;
 }
 
 .card button{
-    position: absolute;
-    bottom:1rem;
-    right: 1rem;
     display: none;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    font-size: 1.25rem;
     padding: 0.25rem 1rem;
-    font-size: 1.5rem;
-    color: grey;
+    color: grey
 }
 
 .card:hover button{
-    display: unset;
+    display: block;
 }
 
-.card button:hover{
+button:hover{
     color: black;
     cursor: pointer;
 }
-
