@@ -2,7 +2,7 @@
 
 - In diesem repository findest du den Code zum Video: **Lern CSS Position in 22 Minuten - Mit Übungen**.
 - Falls du das Video noch nicht gesehen hast kannst du es hier:
-  [Link zum Video](https://www.youtube.com) anschauen.
+  [Link zum Video](https://youtu.be/I_5krB6Lmxw) anschauen.
 
 ## Wie kriege ich den Code?
 
